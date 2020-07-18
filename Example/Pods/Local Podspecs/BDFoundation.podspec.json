@@ -1,0 +1,22 @@
+{
+  "name": "BDFoundation",
+  "version": "0.0.1",
+  "summary": "iOS Foundation的一些简单应用",
+  "description": "TODO: iOS Foundation的一些简单应用",
+  "homepage": "https://github.com/heng1207/BDFoundation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "heng1207": "1356770740@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/heng1207/BDFoundation.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BDFoundation/**/*"
+}

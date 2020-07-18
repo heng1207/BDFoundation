@@ -1,0 +1,6 @@
+framework module BDFoundation {
+  umbrella header "BDFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}
